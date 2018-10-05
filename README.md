@@ -1,5 +1,4 @@
-# winscp
-WinSCP Password Recovery
+# WinSCP Password Recovery
 
 Simple PHP function for decode password saved in WinSCP.
 
